@@ -1,0 +1,33 @@
+#head{
+    letter-spacing: 4px;
+    color:peachpuff;
+}
+
+.i{
+    background-color:#89CFF0;
+    border-radius: 20px;
+    margin-left:10px;
+    margin-right: 10px;
+    box-shadow: 1px 1px 18px black;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+
+.WnH{
+    font-size: 30px;
+}
+
+canvas{
+border: solid white;
+box-shadow: 2px 2px 15px;
+border-radius: 15px;
+border-style:ridge;
+}
